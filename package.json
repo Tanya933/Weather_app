@@ -1,0 +1,15 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "This a weather app which uses external server api to fetch data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanya Rajpal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
